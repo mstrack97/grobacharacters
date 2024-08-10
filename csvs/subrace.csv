@@ -1,0 +1,90 @@
+﻿id,name,raceId
+1,Black,9
+2,Blue,9
+3,Green,9
+4,Red,9
+5,White,9
+6,Brass,9
+7,Bronze,9
+8,Copper,9
+9,Gold,9
+10,Silver,9
+11,Amethyst,9
+12,Crystal,9
+13,Emerald,9
+14,Sapphire,9
+15,Topaz,9
+16,Draconblood,9
+17,Ravenite,9
+18,Duergar,10
+19,Hill,10
+20,Mark of Warding,10
+21,Mountain,10
+22,Aereni High,11
+23,Aereni Wood,11
+24,Drow,11
+25,Eladrin,11
+26,High,11
+27,Mark of Shadow,11
+28,Sea,11
+29,Shadar-kai,11
+30,Valenar High,11
+31,Valenar Wood,11
+32,Wood,11
+33,Pallid,11
+34,Deep Gnome,18
+35,Forest,18
+36,Mark of Scribing,18
+37,Rock,18
+38,Aquatic,23
+39,Drow,23
+40,High,23
+41,Mark of Detection,23
+42,Mark of Storm,23
+43,Wood,23
+44,Ghostwise,24
+45,Lightfoot,24
+46,Mark of Healing,24
+47,Mark of Hospitality,24
+48,Stout,24
+49,Lotusden,24
+50,Mark of Finding,25
+51,Mark of Finding,29
+52,Mark of Handling,29
+53,Mark of Making,29
+54,Mark of Passage,29
+55,Mark of Sentinel,29
+56,Variant,29
+57,Baalzebul,47
+58,Dispater,47
+59,Fierna,47
+60,Glasya,47
+61,Levistus,47
+62,Mammon,47
+63,Mephistopheles,47
+64,Variant,47
+65,Zariel,47
+66,Feral,47
+67,Fallen,2
+68,Protector,2
+69,Scourge,2
+70,Air,14
+71,Earth,14
+72,Water,14
+73,Fire,14
+74,Beasthide,44
+75,Longtooth,44
+76,Swiftstride,44
+77,Wildhunt,44
+78,Grove,58
+79,Pronghorn,58
+80,Dusk,59
+81,Kindled,59
+82,Bright,60
+83,Huden,60
+84,Sable,63
+85,Sera,63
+86,Maran,65
+87,Mistral,65
+88,Stout,66
+89,Swift,66

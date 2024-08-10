@@ -1,0 +1,107 @@
+﻿Id,FeatId,CharacterId,FeatId,CharacterId,,,,,,,id,name,,1,Adrik
+,Tough,Beldin,102,2,,,,,,,1,Aberrant Dragonmark,,2,Beldin
+,Inspiring Leader,Beldin,50,2,,,,,,,2,Actor,,3,Neevan
+,Tough,Neevan,102,3,,,,,,,3,Adept of the Black Robes,,4,Lordanis
+,Sentinel,Neevan,83,3,,,,,,,4,Adept of the Red Robes,,5,Alexander
+,Mobile,Neevan,64,3,,,,,,,5,Adept of the White Robes,,6,Cedric
+,Mobile,Lordanis,64,4,,,,,,,6,Agent of Order,,7,Aora
+,Lucky,Lordanis,58,4,,,,,,,7,Alert,,8,Oro
+,Prodigy,Alexander,74,5,,,,,,,8,Artificer Initiate,,9,Faces
+,Actor,Alexander,2,5,,,,,,,9,Athlete,,10,Zancerius
+,Eldritch Adept,Aora,27,7,,,,,,,10,Baleful Scion,,11,Don
+,Fey Touched,Aora,33,7,,,,,,,11,Bountiful Luck,,12,Vyncent
+,War Caster,Oro,104,8,,,,,,,12,Cartomancer,,13,Elion
+,Eldritch Adept,Faces,27,9,,,,,,,13,Charger,,14,Tort
+,Mobile,Zancerius,64,10,,,,,,,14,Chef,,15,Mick
+,Charger,Zancerius,13,10,,,,,,,15,Cohort of Chaos,,16,GRIZCL-4W
+,Telepathic,Don,101,11,,,,,,,16,Crossbow Expert,,17,Timbren
+,Alert,Don,7,11,,,,,,,17,Crusher,,18,Roland
+,Observant,Vyncent,67,12,,,,,,,18,Defensive Duelist,,19,Tom
+,Telekinetic,Vyncent,100,12,,,,,,,19,Divinely Favored,,20,Fodin
+,Linguist,Vyncent,57,12,,,,,,,20,Dragon Fear,,21,Sylaquis
+,Gunner,Elion,44,13,,,,,,,21,Dragon Hide,,22,Targan
+,Mobile,Tort,64,14,,,,,,,22,Drow High Magic,,23,Snivvel
+,Alert,Mick,7,15,,,,,,,23,Dual Wielder,,24,Fiona
+,Sentinel,GRIZCL-4W,83,16,,,,,,,24,Dungeon Delver,,25,Yuris
+,Dwarven Fortitude,Timbren,26,17,,,,,,,25,Durable,,26,Herman
+,Prodigy,Roland,74,18,,,,,,,26,Dwarven Fortitude,,27,Vern
+,Inspiring Leader,Roland,50,18,,,,,,,27,Eldritch Adept,,28,Ingrit
+,Martial Adept,Fodin,61,20,,,,,,,28,Elemental Adept,,29,Sothim
+,Gift of the Metallic Dragon,Fodin,40,20,,,,,,,29,Elven Accuracy,,30,Sydandra
+,Actor,Sylaquis,2,21,,,,,,,30,Ember of the Fire Giant,,31,Syd
+,Changeling Metamorphosis,Sylaquis,107,21,,,,,,,31,Fade Away,,32,Khudren
+,Tough,Targan,102,22,,,,,,,32,Fey Teleportation,,33,Gauthak
+,Mobile,Targan,64,22,,,,,,,33,Fey Touched,,34,Tomislav
+,Linguist,Snivvel,57,23,,,,,,,34,Fighting Initiate,,35,Trym
+,Fey Teleportation,Fiona,32,24,,,,,,,35,Firearm Specialist,,36,Dreamer
+,Defensive Duelist,Yuris,18,25,,,,,,,36,Flames of Phlegethos,,37,Arranis
+,Second Chance,Herman,82,26,,,,,,,37,Fury of the Frost Giant,,38,Gael
+,Piercer,Vern,70,27,,,,,,,38,Gift of the Chromatic Dragon,,39,Galius
+,Athlete,Ingrit,9,28,,,,,,,39,Gift of the Gem Dragon,,40,Morrine
+,Rune Shaper,Ingrit,79,28,,,,,,,40,Gift of the Metallic Dragon,,41,Thorin
+,Dual Wielder,Sothim,23,29,,,,,,,41,Grappler,,42,Anverth
+,Fade Away,Sydandra,31,30,,,,,,,42,Great Weapon Master,,43,Kaius
+,Fade Away,Syd,31,31,,,,,,,43,Guile of the Cloud Giant,,44,Naelgrim
+,Squat Nimbleness,Syd,93,31,,,,,,,44,Gunner,,45,Caeldrim
+,Squat Nimbleness,Khudren,93,32,,,,,,,45,Healer,,46,Scrag
+,Tough,Gauthak,102,33,,,,,,,46,Heavily Armored,,47,Mae
+,Elven Accuracy,Tomislav,29,34,,,,,,,47,Heavy Armor Master,,48,Sashura
+,Observant,Trym,67,35,,,,,,,48,Infernal Constitution,,49,Panic
+,Telekinetic,Dreamer,100,36,,,,,,,49,Initiate of High Sorcery,,50,Razcal
+,Magic Initiate,Dreamer,60,36,,,,,,,50,Inspiring Leader,,51,Rin
+,Telepathic,Arranis,101,37,,,,,,,51,Keen Mind,,52,Orelia
+,War Caster,Galius,104,39,,,,,,,52,Keenness of the Stone Giant,,53,Vanya
+,Elemental Adept ,Galius,28,39,,,,,,,53,Knight of the Crown,,54,Pado
+,Observant,Morrine,67,40,,,,,,,54,Knight of the Rose,,55,Red
+,Elemental Adept ,Morrine,28,40,,,,,,,55,Knight of the Sword,,56,Maku
+,Actor,Thorin,2,41,,,,,,,56,Lightly Armored,,57,Mongo
+,Keen Mind,Kaius,51,43,,,,,,,57,Linguist,,58,Elia
+,Dwarven Fortitude,Naelgrim,26,44,,,,,,,58,Lucky,,59,Lira
+,Savage Attacker,Caeldrim,80,45,,,,,,,59,Mage Slayer,,60,Atka
+,Elven Accuracy,Caeldrim,29,45,,,,,,,60,Magic Initiate,,61,Cassandra
+,,,,,,,,,,,61,Martial Adept,,62,Ria
+,Shield Master,Sashura,86,48,,,,,,,62,Medium Armor Master,,63,Arete
+,Tough,Sashura,102,48,,,,,,,63,Metamagic Adept,,64,Ynura
+,Crossbow Expert,Panic,16,49,,,,,,,64,Mobile,,65,Gral
+,Actor,Razcal,2,50,,,,,,,65,Moderately Armored,,66,Ash
+,Lucky,Razcal,58,50,,,,,,,66,Mounted Combatant,,67,Xorzan
+,Sentinel,Rin,83,51,,,,,,,67,Observant,,68,Olvom
+,Mage Slayer,Rin,59,51,,,,,,,68,Orcish Fury,,69,Koltuk
+,Martial Adept,Rin,61,51,,,,,,,69,Outlands Envoy,,70,Chance
+,Great Weapon Master,Rin,42,51,,,,,,,70,Piercer,,71,Zoe
+,Actor,Orelia,2,52,,,,,,,71,Planar Wanderer,,72,Tholvrum
+,Alert,Orelia,7,52,,,,,,,72,Poisoner,,73,Caerwyn
+,Dwarven Fortitude,Vanya,26,53,,,,,,,73,Polearm Master,,74,Vyndrich
+,Elemental Adept ,Red,28,55,,,,,,,74,Prodigy,,75,Weyland
+,Tough,Mongo,102,57,,,,,,,75,Resilient,,76,Aelrie
+,Artificer Initiate,Mongo,8,57,,,,,,,76,Revenant Blade,,77,Adrie
+,Spell Sniper,Ynura,92,64,,,,,,,77,Righteous Heritor,,78,Valen
+,Elemental Adept ,Ynura,28,64,,,,,,,78,Ritual Caster,,79,Nowhere
+,Great Weapon Master,Gral,42,65,,,,,,,79,Rune Shaper,,,
+,Resilient,Gral,75,65,,,,,,,80,Savage Attacker,,,
+,Alert,Ash,7,66,,,,,,,81,Scion of the Outer Planes,,,
+,Sentinel,Ash,83,66,,,,,,,82,Second Chance,,,
+,Observant,Xorzan,67,67,,,,,,,83,Sentinel,,,
+,Alert,Xorzan,7,67,,,,,,,84,Shadow Touched,,,
+,Slasher,Koltuk,90,69,,,,,,,85,Sharpshooter,,,
+,War Caster,Chance,104,70,,,,,,,86,Shield Master,,,
+,War Caster,Zoe,104,71,,,,,,,87,Skill Expert,,,
+,Sentinel,Tholvrum,83,72,,,,,,,88,Skilled,,,
+,Athlete,Caerwyn,9,73,,,,,,,89,Skulker,,,
+,Mobile,Caerwyn,64,73,,,,,,,90,Slasher,,,
+,Poisoner,Vyndrich,72,74,,,,,,,91,Soul of the Storm Giant,,,
+,Dual Wielder,Vyndrich,23,74,,,,,,,92,Spell Sniper,,,
+,War Caster,Weyland,104,75,,,,,,,93,Squat Nimbleness,,,
+,Shield Master,Aelrie,86,76,,,,,,,94,Squire of Solamnia,,,
+,Tough,Valen,102,78,,,,,,,95,Strike of the Giants,,,
+,,,,,,,,,,,96,Strixhaven Initiate,,,
+,,,,,,,,,,,97,Strixhaven Mascot,,,
+,,,,,,,,,,,98,Svirfneblin Magic,,,
+,,,,,,,,,,,99,Tavern Brawler,,,
+,,,,,,,,,,,100,Telekinetic,,,
+,,,,,,,,,,,101,Telepathic,,,
+,,,,,,,,,,,102,Tough,,,
+,,,,,,,,,,,103,Vigor of the Hill Giant,,,
+,,,,,,,,,,,104,War Caster,,,
+,,,,,,,,,,,105,Weapon Master,,,
+,,,,,,,,,,,106,Wood Elf Magic,,,
